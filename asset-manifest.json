@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kurtzz.github.io/static/css/main.b0cb6764.css",
+    "main.js": "/kurtzz.github.io/static/js/main.91581702.js",
+    "index.html": "/kurtzz.github.io/index.html",
+    "main.b0cb6764.css.map": "/kurtzz.github.io/static/css/main.b0cb6764.css.map",
+    "main.91581702.js.map": "/kurtzz.github.io/static/js/main.91581702.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0cb6764.css",
+    "static/js/main.91581702.js"
+  ]
+}
